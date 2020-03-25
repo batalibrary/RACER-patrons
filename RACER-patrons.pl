@@ -7,7 +7,7 @@
 #          This script logs into the SFTP server, retrieves the file, and confirms the correct ID format and creates a unioversal expiry date for all users without expiry dates.
 #          The updated list is written to a file on the SFTP server.
 #          A log file is generated.
-#          The file is trasferred via FTP to the Scholars Portal server.
+#          The file is transferred via FTP to the Scholars Portal server.
 
 use strict;                     # Good practice
 use warnings;                   # Good practice
